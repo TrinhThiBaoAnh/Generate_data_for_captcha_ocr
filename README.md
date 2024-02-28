@@ -6,7 +6,7 @@ This repository contains the source code for generating synthetic datasets speci
 
 1. **CAPTCHA Images:** These are automatically generated images containing sequences of characters and numbers with added noise and distortion to simulate CAPTCHA systems. The primary use is to help OCR systems improve in recognizing text within complex backgrounds and under various distortions.
 
-2. **Sensitive Information Images:** These images are designed to contain synthetic sensitive information (e.g., names, addresses, ID numbers) in various formats and backgrounds. The aim is to train OCR systems to accurately extract such information from documents while ensuring the protection of privacy and compliance with data handling regulations.
+2. **Sensitive Information Images:** These images are designed to contain synthetic sensitive information taking from <i>quan_diem_xau_doc_text.txt</i> in various formats and backgrounds. The aim is to train OCR systems to accurately extract such information from documents while ensuring the protection of privacy and compliance with data handling regulations.
 
 ### Features
 
