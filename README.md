@@ -1,5 +1,5 @@
 
-## Project Title: CAPTCHA and Sensitive Information Data Generator for OCR Algorithms
+## CAPTCHA and Sensitive Information Data Generator for OCR Algorithms
 
 ### Description
 This repository contains the source code for generating synthetic datasets specifically designed for training and testing Optical Character Recognition (OCR) algorithms. The dataset includes two main types of images:
